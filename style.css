@@ -99,16 +99,16 @@ p{
     font-size: 16px;
     text-align: justify;
 }
-#testRes table{
+article table{
     margin: auto;
     padding: 20px;
     width: 70%;
 }
-#testRes table th{
+article table th{
     font-family: 'Verdana', sans-serif;
     font-size: 16px;
 }
-#testRes table td{
+article table td{
     text-align: center;
     font-family: 'Helvetica', serif;
     font-size: 20px;
